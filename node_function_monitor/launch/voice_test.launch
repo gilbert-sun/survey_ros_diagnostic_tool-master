@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="monitor_voice" type="xx.py" args=""/>m
+</launch>

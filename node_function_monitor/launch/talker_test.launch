@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="node_function_monitor" type="talker.py" name="talker" output="screen"/>
+</launch>
